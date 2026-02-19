@@ -1,16 +1,12 @@
- ## Hi there 👋
+## Hi there 👋
 
-I'm a PhD in Experimental Physics working at the intersection of imaging science, materials characterization, and data-driven methods.
+I’m fascinated by how waves-particles interact with matter.
 
-Here I share projects spanning:
-- Computational imaging (X-ray & neutron tomography)
-- Machine learning for scientific data
-- Image analysis & segmentation
-- Physics-inspired modeling
+That curiosity has led me to work at the intersection of experimental physics, computational imaging, material characterization, and data-driven analysis — particularly using X-ray and neutron scatetring techniques.
 
-I enjoy turning raw data into insight — giving structure and meaning to complex signals.
+Most of what you’ll find here revolves around:
+- Turning complex physical interactions into structured data
+- Extracting microstructural information from 3D imaging
+- Building physics-aware machine learning tools
 
-⚡ Fun fact: Most of my models start with “this should be simple”… and end in 200 lines of code.
-
-
--->
+I like bridging experiment, theory, and computation.
