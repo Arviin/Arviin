@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m fascinated by how waves-particles interact with matter.
+I'm Arvin (Fazel) Mirzaei, I’m fascinated by how waves-particles interact with matter.
 
 That curiosity has led me to work at the intersection of experimental physics, computational imaging, material characterization, and data-driven analysis — particularly using X-ray and neutron scatetring techniques.
 
